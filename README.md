@@ -4,7 +4,9 @@
 
 ---These are the screenshots of the frontend for the DecentralizedVoting system built using HTML, CSS, and JavaScript.
 
-🌐 Live Demo: sreelekshmi-h.github.io/decentralized-voting-system
+🌐 Live Demo :
+[Click here to view the project](https://sreelekshmi-h.github.io/decentralized-voting-system/)
+
 
 <img width="881" height="733" alt="image" src="https://github.com/user-attachments/assets/97190989-88e0-4914-a86f-885902f7345a" />
 
