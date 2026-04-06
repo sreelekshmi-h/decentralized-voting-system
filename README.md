@@ -1,10 +1,15 @@
 <img width="1059" height="932" alt="image" src="https://github.com/user-attachments/assets/c258d437-0771-44db-89e7-41d7f3fe61a5" />
 <img width="1234" height="808" alt="image" src="https://github.com/user-attachments/assets/40e320d3-1fda-484c-92de-8c3b9617c504" />
 <img width="1133" height="716" alt="image" src="https://github.com/user-attachments/assets/c8a38ad6-a65a-4da8-8c75-63d6f80e7d95" />
+
 ---These are the screenshots of the frontend for the DecentralizedVoting system built using HTML, CSS, and JavaScript.
 
+🌐 Live Demo: sreelekshmi-h.github.io/decentralized-voting-system
+
 <img width="881" height="733" alt="image" src="https://github.com/user-attachments/assets/97190989-88e0-4914-a86f-885902f7345a" />
+
 ---This screenshot shows the Remix IDE frontend buttons used to interact with the DecentralizedVoting smart contract.
+
 Users can seamlessly access and test key functionalities such as:
 
 ✅ addCandidate — Add candidates (Admin only)
